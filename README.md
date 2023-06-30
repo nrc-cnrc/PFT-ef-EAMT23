@@ -51,7 +51,7 @@ Copyright (C) 2023 Sa Majesté le Roi du Chef du Canada / His Majesty the King i
 
 ## Licence
 
-Published under the CC BY-NC 4.0 licence (see [LICENCE](LICENCE) or visit the [website](http://creativecommons.org/licenses/by-nc/4.0/) to learn more).
+Data files in the `data/` directory are published under the [`CC BY-NC 4.0`](http://creativecommons.org/licenses/by-nc/4.0/) licence. The source code in the `scripts/` directory is released under the [`MIT`](https://choosealicense.com/licenses/mit/) software licence.
 
 ## Citing this work
 
