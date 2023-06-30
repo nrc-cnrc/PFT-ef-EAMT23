@@ -24,15 +24,15 @@ Within the `data/` directory, you will find the following files:
 
 ## Scripts
 
-Within the `scripts/` directory, you will find the file `score.py`: This file reproduces the FT-test lines of table 3. You can run it as:
+Within the `scripts/` directory, you will find the file `score.py`. This file reproduces the FT-test lines of table 3. You can run it as:
 
-```bash
+```
 python3 score.py -i ../data/ft-test-sourcefound-en-fr.jsonl
 ```
 
 and
 
-```bash
+```
 python3 score.py -i ../data/ft-test-sourcefound-fr-en.jsonl
 ```
 
@@ -46,6 +46,7 @@ The code copyright is as follows:
 Multilingual Text Processing / Traitement multilingue de textes
 Digital Technologies Research Centre / Centre de recherche en technologies numériques
 National Research Council Canada / Conseil national de recherches Canada
+
 Copyright (C) 2023 Sa Majesté le Roi du Chef du Canada / His Majesty the King in Right of Canada
 ```
 
