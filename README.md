@@ -37,13 +37,12 @@ The annotated data is reproduced in accordance with the [Speaker’s Permission 
 
 The code copyright is as follows:
 
+```text
 Multilingual Text Processing / Traitement multilingue de textes
-
 Digital Technologies Research Centre / Centre de recherche en technologies numériques
-
 National Research Council Canada / Conseil national de recherches Canada
-
 Copyright 2023, Sa Majesté le Roi du Chef du Canada / His Majesty the King in Right of Canada
+```
 
 ## Licence
 
